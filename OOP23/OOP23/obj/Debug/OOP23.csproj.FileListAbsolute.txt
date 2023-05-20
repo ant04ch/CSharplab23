@@ -1,0 +1,11 @@
+C:\Users\lox22\source\repos\OOP23\OOP23\bin\Debug\OOP23.exe.config
+C:\Users\lox22\source\repos\OOP23\OOP23\bin\Debug\OOP23.exe
+C:\Users\lox22\source\repos\OOP23\OOP23\bin\Debug\OOP23.pdb
+C:\Users\lox22\source\repos\OOP23\OOP23\obj\Debug\OOP23.csproj.AssemblyReference.cache
+C:\Users\lox22\source\repos\OOP23\OOP23\obj\Debug\OOP23.csproj.SuggestedBindingRedirects.cache
+C:\Users\lox22\source\repos\OOP23\OOP23\obj\Debug\OOP23.Form1.resources
+C:\Users\lox22\source\repos\OOP23\OOP23\obj\Debug\OOP23.Properties.Resources.resources
+C:\Users\lox22\source\repos\OOP23\OOP23\obj\Debug\OOP23.csproj.GenerateResource.cache
+C:\Users\lox22\source\repos\OOP23\OOP23\obj\Debug\OOP23.csproj.CoreCompileInputs.cache
+C:\Users\lox22\source\repos\OOP23\OOP23\obj\Debug\OOP23.exe
+C:\Users\lox22\source\repos\OOP23\OOP23\obj\Debug\OOP23.pdb
